@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  Copyright 2015 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources>
+    <string name="app_name">动态申请权限</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+           此示例显示Android M及更高版本中可用的运行时权限。
+           显示登录屏幕以跟踪执行。
+           如果在Android 6.0设备上执行，则会显示访问联系人的附加选项
+           仅使用可选、M和更高权限声明的。
+
+
+        ]]>
+    </string>
+    <string name="ok">确定</string>
+    <string name="contacts_string">联系人总数: %1$,d\n第一个联系人:<b>%2$s</b></string>
+    <string name="contacts_none">当前设备上没有存储联系人</string>
+    <string name="contacts_empty">联系人未加载</string>
+    <string name="add_contact">添加一个联系人</string>
+    <string name="show_contact">显示第一个联系人</string>
+    <string name="contacts_intro">此片段演示如何访问设备上的联系人数据库。\n单击“添加联系人”可将名为“虚拟条目”的新联系人直接添加到数据库中。\n单击“显示第一个联系人”访问联系人数据库以显示第一个联系人的名称。</string>
+    <string name="camera_unavailable"><b>相机无法被打开.</b>\n这会出现在相机不可用 (例如当前在其他应用中打开) 获取被系统禁止访问 (例如相机访问权限被禁止)。</string>
+    <string name="back">Back</string>
+    <string name="show_camera">显示相机预览</string>
+    <string name="show_contacts">显示和添加联系人</string>
+    <string name="main_introduction">单击下面的按钮以显示相机预览或访问联系人数据库。\n注意，contacts选项仅在Android 6.0及更高版本上可用，在6.0以前的设备上不需要动态申请。</string>
+    <string name="permision_available_camera">已取得相机权限，现在可以打开预览界面了。</string>
+    <string name="permision_available_contacts">已取得读写联系人权限，现在可以查看和添加联系人了。</string>
+    <string name="permissions_not_granted">权限没有被授予</string>
+    <string name="permission_camera_rationale">相机预览需要相机权限。</string>
+    <string name="permission_contacts_rationale">需要联系人权限才能演示访问权限。</string>
+</resources>
