@@ -7,3 +7,6 @@ Android官方提供的Sample，是学习Android 非常好的帮手。
 	2.system/RuntimePermissionBasic
 
 
+
+数据绑定：mvvm
+	1.BindingDemo
