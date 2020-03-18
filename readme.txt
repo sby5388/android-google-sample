@@ -11,5 +11,10 @@ Android官方提供的Sample，是学习Android 非常好的帮手。
 数据绑定：mvvm
 	1.BindingDemo
 
-弹出菜单：PopupMenu: 列表弹出菜单：
+弹出菜单：PopupMenu: 列表弹出菜单：悬浮菜单
 	1.popup_menu\ActionBarCompat-ListPopupMenu
+
+
+动画：animation:
+	1.BasicTransition ： 场景动画
+		Scene 封装了属性动画，根据前后的状态，自动生成动画
