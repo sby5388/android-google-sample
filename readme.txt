@@ -18,3 +18,33 @@ Android官方提供的Sample，是学习Android 非常好的帮手。
 动画：animation:
 	1.BasicTransition ： 场景动画
 		Scene 封装了属性动画，根据前后的状态，自动生成动画
+
+
+其他小应用：other
+	1.Compass: 指南针
+	2.BusinessCard : 选取联系人
+
+jni-ndk:nji-ndk
+	1.SimpleJNI ：简单demo
+	2.
+
+组件:widget 
+	1.RecyclerView  recyclerView recyclerview
+	2.DoneBar  :CardView 卡片视图。自定义ActionBar  implements "com.android.support:cardview-v7:26.1.0"
+	3.CardView 卡片视图 动态设置 卡片视图的属性
+	4.
+
+
+安全：security
+	1.FingerprintDialog ： 指纹、支付
+
+
+App:应用
+	1.AppShortcuts:快捷方式： 动态增加一些快捷方式，长按桌面icon弹出来的列表选项
+	
+fontFamily:字体相关的
+	1.DownloadableFonts 切换字体，对指定的文字动态设置字体
+
+game:一些游戏
+	1.LunarLander 飞行游戏
+	2.JetBoy 游戏
