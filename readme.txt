@@ -58,4 +58,4 @@ background:后台相关
 
 media：媒体相关
 	1.BasicMediaRouter 多屏 双屏异显
-	2.
+	2.BasicMediaDecoder 播放视频 播放raw文件 视频解码
