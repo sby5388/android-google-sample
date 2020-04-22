@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+ Copyright 2013 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+
+<resources>
+    <string name="app_name">(双屏异显)基本媒体路由器</string>
+    <string name="intro_message">
+        <![CDATA[
+        
+            
+           此示例演示如何使用MediaRouter API显示
+           辅助显示器上的内容。\n\n使用操作栏中的“媒体路由操作项”选择输出设备。
+           如果您的设备支持Miracast无线显示器，则可能需要在系统设置中启用“无线显示器”功能。
+           也可以从“开发人员选项”启用辅助屏幕模拟。\n\n
+           连接后，使用“更改颜色”按钮更改次屏幕的背景色。
+            
+        
+        ]]>
+    </string>
+</resources>

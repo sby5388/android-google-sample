@@ -1,0 +1,9 @@
+<resources>
+    <string name="menu_present_to">投屏至？</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="secondary_connected">连接到:\n%s</string>
+    <string name="secondary_notconnected">没有已连接的第二显示屏</string>
+    <string name="change_color">改变颜色</string>
+    <string name="display_name">这个显示器是: %s</string>
+    <string name="display_color">背景颜色: #%X</string>
+</resources>
