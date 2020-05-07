@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!--TODO 移动至父容器的边缘，使用 100%p,p:parent-->
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="@integer/animation_duration"
+    android:fromXDelta="0"
+    android:fromYDelta="0"
+    android:toXDelta="100%p"
+    android:toYDelta="100" />

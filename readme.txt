@@ -22,7 +22,8 @@ system:动态权限申请：
 animation:动画
 	1.BasicTransition ： 场景动画
 		Scene 封装了属性动画，根据前后的状态，自动生成动画
-
+	2.ViewAnimations 四种基础补间动画+组合，
+		透明度、平移、放大、旋转，组合；参照自身、绝对位置、参照父容器，使用"20%p"来定义在父容器中的位置
 
 other:其他小应用：
 	1.Compass: 指南针
@@ -36,7 +37,8 @@ jni-ndk:nji-ndk
 	1.RecyclerView  recyclerView recyclerview
 	2.DoneBar  :CardView 卡片视图。自定义ActionBar  implements "com.android.support:cardview-v7:26.1.0"
 	3.CardView 卡片视图 动态设置 卡片视图的属性
-	4.
+	4.BorderlessButtons : 按鈕样式  父容器 style="?android:buttonBarStyle"  style="?android:buttonBarButtonStyle"
+	5.
 
 
 security:安全
